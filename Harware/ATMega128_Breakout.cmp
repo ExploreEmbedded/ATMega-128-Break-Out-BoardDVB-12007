@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 5/21/2015 11:12:04 AM
+
+BeginCmp
+TimeStamp = /55530900;
+Reference = C1;
+ValeurCmp = 22PF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /555308FA;
+Reference = C2;
+ValeurCmp = 22PF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55530B41;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55530B6B;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55536098;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553608B;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55544658;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5554465E;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553099A;
+Reference = IC1;
+ValeurCmp = ATMEGA128-A;
+IdModule  = TQFP64_atmega128_XL1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55530978;
+Reference = J1;
+ValeurCmp = SIL8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553097E;
+Reference = J2;
+ValeurCmp = SIL8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55535086;
+Reference = P1;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55534E5C;
+Reference = P2;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55535889;
+Reference = P3;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /555352F0;
+Reference = P4;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D6E6F;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55530B49;
+Reference = P8;
+ValeurCmp = CONN_5X2;
+IdModule  = VASCH5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553091A;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /555360A0;
+Reference = R2;
+ValeurCmp = 470r;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55544664;
+Reference = R3;
+ValeurCmp = 470r;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553090D;
+Reference = SW1;
+ValeurCmp = rst;
+IdModule  = SW_PUSH_SMALL_2pin_xl;
+EndCmp
+
+BeginCmp
+TimeStamp = /55530906;
+Reference = X1;
+ValeurCmp = 16Mhz;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe
