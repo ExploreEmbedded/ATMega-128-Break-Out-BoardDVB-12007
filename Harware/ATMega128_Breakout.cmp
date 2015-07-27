@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 5/30/2015 10:39:18 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 7/27/2015 9:04:27 AM
 
 BeginCmp
 TimeStamp = /55530900;
@@ -32,28 +32,21 @@ BeginCmp
 TimeStamp = /55536098;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = SM1206;
+IdModule  = ex:LED-1206_NEW;
 EndCmp
 
 BeginCmp
 TimeStamp = /5553608B;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = SM1206;
+IdModule  = ex:LED-1206_NEW;
 EndCmp
 
 BeginCmp
-TimeStamp = /55544658;
+TimeStamp = /5581091F;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = SM1206;
-EndCmp
-
-BeginCmp
-TimeStamp = /5554465E;
-Reference = D4;
-ValeurCmp = LED;
-IdModule  = SM1206;
+IdModule  = ex:LED-1206_NEW;
 EndCmp
 
 BeginCmp
@@ -113,13 +106,6 @@ IdModule  = SIL-10;
 EndCmp
 
 BeginCmp
-TimeStamp = /555D6E6F;
-Reference = P5;
-ValeurCmp = CONN_2;
-IdModule  = SIL-2;
-EndCmp
-
-BeginCmp
 TimeStamp = /5569E83B;
 Reference = P6;
 ValeurCmp = CONN_7;
@@ -130,7 +116,7 @@ BeginCmp
 TimeStamp = /55530B49;
 Reference = P8;
 ValeurCmp = CONN_5X2;
-IdModule  = VASCH5x2;
+IdModule  = Connect:VASCH5x2;
 EndCmp
 
 BeginCmp
@@ -148,7 +134,7 @@ IdModule  = SM1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /55544664;
+TimeStamp = /558108C2;
 Reference = R3;
 ValeurCmp = 470r;
 IdModule  = SM1206;
@@ -165,7 +151,7 @@ BeginCmp
 TimeStamp = /55530906;
 Reference = X1;
 ValeurCmp = 16Mhz;
-IdModule  = HC-49V;
+IdModule  = Discret:HC-49V;
 EndCmp
 
 EndListe
