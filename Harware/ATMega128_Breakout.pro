@@ -1,4 +1,4 @@
-update=5/14/2015 12:35:44 PM
+update=7/7/2015 10:31:34 AM
 version=1
 last_client=pcbnew
 [general]
@@ -52,10 +52,10 @@ EquName1=devcms
 version=1
 LastNetListRead=ATMega128_Breakout.net
 UseCmpFile=1
-PadDrill=0.600000000000
-PadDrillOvalY=0.600000000000
-PadSizeH=1.500000000000
-PadSizeV=1.500000000000
+PadDrill=0.812800000000
+PadDrillOvalY=0.812800000000
+PadSizeH=1.600000000000
+PadSizeV=1.600000000000
 PcbTextSizeV=1.500000000000
 PcbTextSizeH=1.500000000000
 PcbTextThickness=0.300000000000
@@ -87,3 +87,4 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=E:/Custom XL/SW_PUSH_SMALL_2pin_xl
 LibName18=E:/DESIGN CENTRAL/Design Centrail System back up/Custom XL/Xplore-LabZ
+LibName19=H:/PCB_Designes/LPC1768 Stick1/lib_new/ExploreEmbedded.pretty-master/logo
