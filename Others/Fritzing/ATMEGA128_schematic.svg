@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg34450"
+   viewBox="0 0 177.16535 814.96063"
+   height="230mm"
+   width="50mm">
+  <defs
+     id="defs34452" />
+  <metadata
+     id="metadata34455">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-237.40157)"
+     id="layer1">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text7383"
+       transform="matrix(0,-1,1,0,425.08169,-707.16682)" />    <g
+       transform="translate(-278.8021,185.86807)"
+       id="g35927">
+      <rect
+         width="107.54424"
+         height="760.30981"
+         x="312.27298"
+         y="90.288788"
+         id="rect6715"
+         style="fill:none;stroke:#000000;stroke-width:2.18391895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 442.50454,99.551007 7.08661,4.000003"
+         id="5v1pin"
+         style="fill:none;stroke:none" />
+      <path
+         d="m 442.50453,126.12501 7.08661,4"
+         id="gnd1pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,152.70001 7.08661,4"
+         id="iotxdpin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,179.27501 7.08661,4"
+         id="iorxdpin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,205.85001 7.08661,4"
+         id="io18pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,232.42501 7.08661,4"
+         id="io23pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,258.99901 7.08661,4"
+         id="io24pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,285.57401 7.08661,4"
+         id="io25pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,312.14901 7.08661,4"
+         id="iocs0pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 442.50453,338.72401 7.08661,4"
+         id="iocs1pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,99.551007 -7.08661,4.000003"
+         id="3v1pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,128.12501 -7.08661,4"
+         id="iosdapin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,152.70001 -7.08661,4"
+         id="iosclpin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,179.27501 -7.08661,4"
+         id="io4pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,205.85001 -7.08661,4"
+         id="io17pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,232.42501 -7.08661,4"
+         id="io21pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,258.99901 -7.08661,4"
+         id="io22pin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,285.57401 -7.08661,4"
+         id="iomosipin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,312.14901 -7.08661,4"
+         id="iomisopin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.14233,338.72401 -7.08661,4"
+         id="iosclkpin"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(260.02422,-578.76399)"
+         id="text7277"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="683.85822"
+           id="tspan7279"
+           style="font-size:10px">RX</text>
+</g>      <g
+         transform="translate(260.02422,-578.76399)"
+         id="text7281"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="710.43304"
+           id="tspan7283">TX</text>
+</g>      <g
+         transform="translate(260.02422,-578.76399)"
+         id="text7285"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.184994"
+           y="738.11755"
+           id="tspan7287">PB0</text>
+</g>      <g
+         transform="translate(260.02422,-578.76399)"
+         id="text7289"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.349434"
+           y="764.09906"
+           id="tspan7291">PB1</text>
+</g>      <g
+         transform="translate(260.02422,-605.33899)"
+         id="text7297"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="816.73224"
+           id="tspan7299">PB2</text>
+</g>      <g
+         transform="translate(260.02422,-605.33899)"
+         id="text7301"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="843.30707"
+           id="tspan7303">PB3</text>
+</g>      <g
+         transform="translate(260.02422,-605.33899)"
+         id="text7305"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="869.88184"
+           id="tspan7307">PB4</text>
+</g>      <g
+         transform="translate(260.02422,-631.91399)"
+         id="text7313"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315">PB5</text>
+</g>      <g
+         transform="translate(260.02422,-631.91399)"
+         id="text7317"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319">PB6</text>
+</g>      <g
+         transform="translate(260.02422,-631.91399)"
+         id="text7321"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323">PB7</text>
+</g>      <text
+         x="-616.49445"
+         y="370.20941"
+         id="tspan7385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)">Explore ATMEGA-128</text>
+      <path
+         d="m 313.17383,101.55101 -26.57481,0"
+         id="path8699"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,128.12501 -26.57481,0"
+         id="path8701"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,154.70001 -26.57481,0"
+         id="path8703"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,181.27501 -26.57481,0"
+         id="path8705"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,207.85001 -26.57481,0"
+         id="path8709"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,234.42501 -26.57481,0"
+         id="path8711"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,260.99901 -26.57481,0"
+         id="path8713"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,287.57401 -26.57481,0"
+         id="path8717"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,314.14901 -26.57481,0"
+         id="path8721"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.17383,340.72401 -26.57481,0"
+         id="path8723"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47304,101.55101 26.57481,0"
+         id="path8727"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,128.12501 26.57481,0"
+         id="path8731"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,154.70001 26.57481,0"
+         id="path8733"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,181.27501 26.57481,0"
+         id="path8735"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,207.85001 26.57481,0"
+         id="path8737"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,234.42501 26.57481,0"
+         id="path8741"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,260.99901 26.57481,0"
+         id="path8743"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,287.57401 26.57481,0"
+         id="path8747"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,314.14901 26.57481,0"
+         id="path8749"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 419.47303,340.72401 26.57481,0"
+         id="path8751"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.39257,364.0815 -7.08661,4"
+         id="iomosipin-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.39257,390.6565 -7.08661,4"
+         id="iomisopin-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.39257,417.2315 -7.08661,4"
+         id="iosclkpin-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(257.06017,-553.76365)"
+         id="text7313-2"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8">NC</text>
+</g>      <g
+         transform="translate(257.06017,-553.76365)"
+         id="text7317-7"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2">RESET</text>
+</g>      <g
+         transform="translate(257.06017,-553.76365)"
+         id="text7321-2"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4">PD0</text>
+</g>      <path
+         d="m 313.42407,366.0815 -26.57481,0"
+         id="path8717-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.42407,392.6565 -26.57481,0"
+         id="path8721-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.42407,419.2315 -26.57481,0"
+         id="path8723-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,147.9836 -7.08661,4"
+         id="iomosipin-3-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,198.27535 -7.08661,4"
+         id="iomisopin-6-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 448.543,364.65781 -26.57481,0"
+         id="path8717-0-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 448.543,391.23281 -26.57481,0"
+         id="path8721-4-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 448.543,417.80781 -26.57481,0"
+         id="path8723-4-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         transform="matrix(0,1,-1,0,1319.4412,16.583781)"
+         id="text7321-2-6-7"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="-71.540741"
+           y="-980.14349"
+           id="tspan7323-4-3-1"
+           transform="scale(-1,-1)">NC</text>
+</g>      <path
+         d="m 365.87502,89.697547 0,-21.25395"
+         id="path8717-0-9-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 352.89778,89.303417 0,-21.45102"
+         id="path8721-4-1-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 341.30002,89.303407 0,-21.55826"
+         id="path8723-4-1-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         transform="matrix(0,-1,1,0,-651.1092,144.34337)"
+         id="text7321-2-6-7-2"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3-1-4">G</text>
+</g>      <path
+         d="m 328.06938,89.382147 0,-21.55826"
+         id="path8723-4-1-8-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         transform="matrix(0,-1,1,0,-575.28647,150.00294)"
+         id="text7321-2-6-7-7"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3-1-8">DTR</text>
+</g>      <path
+         d="m 403.0647,90.088347 0,-21.45102"
+         id="path8721-4-1-2-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 391.46694,90.088337 0,-21.55826"
+         id="path8723-4-1-8-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 378.23631,90.167077 0,-21.55826"
+         id="path8723-4-1-8-9-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         transform="matrix(0,-1,1,0,-625.46711,143.03465)"
+         id="text7321-2-6-7-2-49"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="56.294842"
+           y="976.57526"
+           id="tspan7323-4-3-1-4-5">5V</text>
+<g
+           transform="matrix(-1,0,0,-1,127.98806,1981.5772)"
+           id="text7321-2-6-7-70"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+             x="-71.540741"
+             y="-980.14349"
+             id="tspan7323-4-3-1-5"
+             transform="scale(-1,-1)">TX</text>
+</g><text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="56.649605"
+           y="989.39893"
+           id="tspan7323-4-3-1-4-5-3">RX</text>
+</g>      <g
+         transform="matrix(0,1,-1,0,1369.8821,15.966176)"
+         id="text7321-2-6-7-74"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="-71.540741"
+           y="-980.14349"
+           id="tspan7323-4-3-1-83"
+           transform="scale(-1,-1)">NC</text>
+</g>      <path
+         d="m 290.18869,443.15058 -7.08661,4"
+         id="io22pin-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.18869,469.72558 -7.08661,4"
+         id="iomosipin-37"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.18869,496.30058 -7.08661,4"
+         id="iomisopin-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.18869,522.87558 -7.08661,4"
+         id="iosclkpin-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(260.07058,-421.18742)"
+         id="text7305-4"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="869.88184"
+           id="tspan7307-6">PD1</text>
+</g>      <g
+         transform="translate(260.07058,-447.76242)"
+         id="text7313-24"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-7">PD2</text>
+</g>      <g
+         transform="translate(260.07058,-447.76242)"
+         id="text7317-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-8">PD3</text>
+</g>      <g
+         transform="translate(260.07058,-447.76242)"
+         id="text7321-8"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-9">PD4</text>
+</g>      <path
+         d="m 313.22019,445.15058 -26.57481,0"
+         id="path8713-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.22019,471.72558 -26.57481,0"
+         id="path8717-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.22019,498.30058 -26.57481,0"
+         id="path8721-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.22019,524.87558 -26.57481,0"
+         id="path8723-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.43893,548.23307 -7.08661,4"
+         id="iomosipin-3-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.43893,574.80807 -7.08661,4"
+         id="iomisopin-6-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 290.43893,601.38307 -7.08661,4"
+         id="iosclkpin-1-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(257.10653,-369.61208)"
+         id="text7313-2-15"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8-7">PD5</text>
+</g>      <g
+         transform="translate(257.10653,-369.61208)"
+         id="text7317-7-1"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2-0">PD6</text>
+</g>      <g
+         transform="translate(257.10653,-369.61208)"
+         id="text7321-2-03"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3">PD7</text>
+</g>      <path
+         d="m 313.47043,550.23307 -26.57481,0"
+         id="path8717-0-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.47043,576.80807 -26.57481,0"
+         id="path8721-4-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.47043,603.38307 -26.57481,0"
+         id="path8723-4-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,349.15065 -7.08661,4"
+         id="iomosipin-37-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,399.4424 -7.08661,4"
+         id="iomisopin-9-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,449.73421 -7.08661,4"
+         id="iosclkpin-7-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.07233,443.94491 -26.57481,0"
+         id="path8713-6-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.07233,470.51991 -26.57481,0"
+         id="path8717-8-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.07233,497.09491 -26.57481,0"
+         id="path8721-2-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.07233,523.66991 -26.57481,0"
+         id="path8723-8-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,500.02592 -7.08661,4"
+         id="iomosipin-3-7-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,550.3177 -7.08661,4"
+         id="iomisopin-6-4-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <path
+         d="m 414.70364,600.60945 -7.08661,4"
+         id="iosclkpin-1-5-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(257.96155,-578.76404)"
+         id="text7329"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="683.85822"
+           id="tspan7331"
+           style="text-align:end;text-anchor:end">VCC</text>
+</g>      <g
+         transform="translate(259.65588,-605.33904)"
+         id="text7337"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="737.00781"
+           id="tspan7339"
+           style="text-align:end;text-anchor:end">GND</text>
+</g>      <g
+         transform="translate(256.00842,-605.33904)"
+         id="text7341"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="763.58264"
+           id="tspan7343"
+           style="text-align:end;text-anchor:end">PA0</text>
+</g>      <g
+         transform="translate(258.00061,-605.33904)"
+         id="text7345"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="790.15747"
+           id="tspan7347"
+           style="text-align:end;text-anchor:end">PA1</text>
+</g>      <g
+         transform="translate(257.00061,-605.33904)"
+         id="text7349"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="816.73224"
+           id="tspan7351"
+           style="text-align:end;text-anchor:end">PA2</text>
+</g>      <g
+         transform="translate(259.65588,-631.91404)"
+         id="text7357"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><g
+           id="g4456"><text
+             style="text-align:end;text-anchor:end"
+             id="tspan7359"
+             y="869.88184"
+             x="152.36221">PA3</text>
+</g></g>      <g
+         transform="translate(258.64514,-631.91404)"
+         id="text7361"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="896.45667"
+           id="tspan7363"
+           style="text-align:end;text-anchor:end">PA4</text>
+</g>      <g
+         transform="translate(258.64514,-658.48904)"
+         id="text7369"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="949.60626"
+           id="tspan7371"
+           style="text-align:end;text-anchor:end">PA5</text>
+</g>      <g
+         transform="translate(258.64514,-658.48904)"
+         id="text7373"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="152.36221"
+           y="976.18109"
+           id="tspan7375"
+           style="text-align:end;text-anchor:end">PA6</text>
+</g>      <g
+         transform="translate(256.87349,-658.48904)"
+         id="text7377"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="154.13387"
+           y="1002.7559"
+           id="tspan7379"
+           style="text-align:end;text-anchor:end">PA7</text>
+</g>      <g
+         transform="translate(328.84242,-555.69248)"
+         id="text7313-2-1"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8-6">NC</text>
+</g>      <g
+         transform="translate(328.79848,-555.1874)"
+         id="text7317-7-3"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2-9">INTR</text>
+</g>      <g
+         transform="translate(328.64223,-555.1874)"
+         id="text7321-2-0"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-4">PC7</text>
+</g>      <g
+         transform="translate(328.72524,-423.29398)"
+         id="text7305-4-1"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="869.88184"
+           id="tspan7307-6-9">PC6</text>
+</g>      <g
+         transform="translate(328.4811,-449.86898)"
+         id="text7313-24-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-7-1">PC5</text>
+</g>      <g
+         transform="translate(329.0182,-449.86898)"
+         id="text7317-6-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-8-5">PC4</text>
+</g>      <g
+         transform="translate(328.57875,-449.86898)"
+         id="text7321-8-2"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-9-0">PC3</text>
+</g>      <g
+         transform="translate(328.60805,-371.71864)"
+         id="text7313-2-15-1"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8-7-1">PC2</text>
+</g>      <g
+         transform="translate(328.03676,-371.71864)"
+         id="text7317-7-1-9"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2-0-0">PC1</text>
+</g>      <g
+         transform="translate(328.72524,-371.71864)"
+         id="text7321-2-03-2"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3-3">PC0</text>
+</g>      <path
+         d="m 447.32257,549.0274 -26.57481,0"
+         id="path8717-0-5-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.32257,575.6024 -26.57481,0"
+         id="path8721-4-5-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.32257,602.1774 -26.57481,0"
+         id="path8723-4-6-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 447.37818,630.86768 -26.57481,0"
+         id="path8723-4-3-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 445.90751,657.00478 -26.57481,0"
+         id="path8713-6-1-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 445.90751,683.57978 -26.57481,0"
+         id="path8717-8-9-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 445.90751,710.15478 -26.57481,0"
+         id="path8721-2-0-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 445.90751,736.72978 -26.57481,0"
+         id="path8723-8-3-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 446.15775,762.08727 -26.57481,0"
+         id="path8717-0-5-9-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 446.15775,788.66227 -26.57481,0"
+         id="path8721-4-5-3-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 446.15775,815.23727 -26.57481,0"
+         id="path8723-4-6-1-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 313.02789,630.86769 -26.57481,0"
+         id="path8723-4-3-8-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.55722,657.00479 -26.57481,0"
+         id="path8713-6-1-7-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.55722,683.57979 -26.57481,0"
+         id="path8717-8-9-8-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.55722,710.15479 -26.57481,0"
+         id="path8721-2-0-5-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.55722,736.72979 -26.57481,0"
+         id="path8723-8-3-4-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.80746,762.08728 -26.57481,0"
+         id="path8717-0-5-9-2-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.80746,788.66228 -26.57481,0"
+         id="path8721-4-5-3-7-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         d="m 311.80746,815.23728 -26.57481,0"
+         id="path8723-4-6-1-3-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(255.2477,-341.4959)"
+         id="text7321-2-8"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-2">PE0</text>
+</g>      <g
+         transform="translate(258.25811,-208.91967)"
+         id="text7305-4-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="869.88184"
+           id="tspan7307-6-8">PE1</text>
+</g>      <g
+         transform="translate(258.25811,-235.49467)"
+         id="text7313-24-9"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-7-3">PE2</text>
+</g>      <g
+         transform="translate(258.25811,-235.49467)"
+         id="text7317-6-9"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-8-2">PE3</text>
+</g>      <g
+         transform="translate(258.25811,-235.49467)"
+         id="text7321-8-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-9-1">PE4</text>
+</g>      <g
+         transform="translate(255.29406,-157.34433)"
+         id="text7313-2-15-14"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8-7-18">PE5</text>
+</g>      <g
+         transform="translate(255.29406,-157.34433)"
+         id="text7317-7-1-7"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2-0-02">PE6</text>
+</g>      <g
+         transform="translate(255.29406,-157.34433)"
+         id="text7321-2-03-5"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3-7">PE7</text>
+</g>      <g
+         transform="translate(327.97869,-341.4959)"
+         id="text7321-2-8-9"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-2-4">PF0</text>
+</g>      <g
+         transform="translate(330.9891,-208.91967)"
+         id="text7305-4-6-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="869.88184"
+           id="tspan7307-6-8-9">PF1</text>
+</g>      <g
+         transform="translate(330.9891,-235.49467)"
+         id="text7313-24-9-3"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-7-3-3">PF2</text>
+</g>      <g
+         transform="translate(330.9891,-235.49467)"
+         id="text7317-6-9-3"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-8-2-0">PF3</text>
+</g>      <g
+         transform="translate(330.9891,-235.49467)"
+         id="text7321-8-6-3"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-9-1-2">PF4</text>
+</g>      <g
+         transform="translate(328.02505,-157.34433)"
+         id="text7313-2-15-14-4"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="923.03143"
+           id="tspan7315-8-7-18-5">PF5</text>
+</g>      <g
+         transform="translate(328.02505,-157.34433)"
+         id="text7317-7-1-7-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="949.60626"
+           id="tspan7319-2-0-02-3">PF6</text>
+</g>      <g
+         transform="translate(328.02505,-157.34433)"
+         id="text7321-2-03-5-6"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+           x="60.236221"
+           y="976.18109"
+           id="tspan7323-4-3-7-7">PF7</text>
+</g>    </g>
+  </g>
+</svg>

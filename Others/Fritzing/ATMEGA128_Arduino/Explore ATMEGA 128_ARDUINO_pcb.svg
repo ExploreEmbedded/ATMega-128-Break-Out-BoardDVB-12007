@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   gorn="0"
+   version="1.1"
+   id="svg36158"
+   width="20mm"
+   viewBox="0 0 70.866142 283.46457"
+   height="80mm">
+  <desc
+     id="desc3">
+    <referenceFile>ATMEGA128_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs36160" />
+  <metadata
+     id="metadata36163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g7"
+     transform="translate(0,-768.89764)">
+    <g
+       id="g9">
+      <g
+         gorn="0.3.0.0"
+         id="layer1">
+        <g
+           id="g12"
+           transform="translate(-282.84271,547.39064)">
+          <g
+             id="g14">
+            <g
+               gorn="0.3.0.0.0.0.0"
+               id="g37238">
+              <g
+                 gorn="0.3.0.0.0.0.0.0"
+                 id="copper1">
+                <g
+                   gorn="0.3.0.0.0.0.0.0.0"
+                   id="copper0">
+                  <g
+                     id="g19"
+                     transform="matrix(0,-1,1,0,161.43786,381.90094)">
+                    <g
+                       id="g21">
+                      <g
+                         gorn="0.3.0.0.0.0.0.0.0.0.0.0"
+                         id="silkscreen"
+                         style="display:inline">
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.0.0.0.0"
+                           id="path14906"
+                           stroke-width="1.25"
+                           d="m 9.0014603,159.74862 0,-31.5 65.2499997,0 0,4.5 13.5,0 0,-4.5 65.25,0 0,31.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#ffffff" />
+                        <path
+                           fill-opacity="1"
+                           gorn="0.3.0.0.0.0.0.0.0.0.0.0.1"
+                           id="path4994"
+                           stroke-width="0.44999999"
+                           d="m 132.75,134.55 2.25,-3.6 2.25,3.6 z"
+                           fill="#ffffff"
+                           style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#ffffff" />
+                      </g>
+                    </g>
+                  </g>
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.1"
+                     id="connector3pad"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,266.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.2"
+                     id="connector4pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,275.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.3"
+                     id="connector5pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,284.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.4"
+                     id="connector8pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,311.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.5"
+                     id="connector9pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,320.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.6"
+                     id="connector10pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,329.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.7"
+                     id="connector6pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,293.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.8"
+                     id="connector7pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,302.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.9"
+                     id="connector12pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,347.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.10"
+                     id="connector13pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,356.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.11"
+                     id="connector11pin"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,338.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.12"
+                     id="connector38pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,266.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.13"
+                     id="connector37pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,275.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.14"
+                     id="connector36pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,284.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.15"
+                     id="connector33pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,311.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.16"
+                     id="connector32pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,320.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.17"
+                     id="connector31pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,329.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.18"
+                     id="connector35pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,293.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.19"
+                     id="connector34pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,302.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.20"
+                     id="connector29pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,347.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.21"
+                     id="connector28pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,356.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.22"
+                     id="connector30pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,338.69154 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.23"
+                     id="connector40pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,248.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.24"
+                     id="connector39pin"
+                     stroke-width="1.79999995"
+                     d="m 328.12061,257.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <g
+                     id="g50"
+                     transform="matrix(0,-1,1,0,0,0)">
+                    <g
+                       id="g52">
+                      <rect
+                         gorn="0.3.0.0.0.0.0.0.0.25.0.0"
+                         id="rect4984"
+                         y="308.87061"
+                         stroke-width="1.79999995"
+                         x="-253.1915"
+                         width="4.5"
+                         height="4.5"
+                         fill="none"
+                         style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                         stroke-opacity="1"
+                         stroke="#f7bd13" />
+                    </g>
+                  </g>
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.26"
+                     id="connector1pad"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,248.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.27"
+                     id="connector2pad"
+                     stroke-width="1.79999995"
+                     d="m 311.12061,257.69155 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <g
+                     id="g57"
+                     transform="matrix(0,-1,1,0,-571.96958,124.4757)">
+                    <g
+                       id="g59">
+                      <g
+                         gorn="0.3.0.0.0.0.0.0.0.28.0.0"
+                         id="g18883">
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.0"
+                           id="connector59pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,881.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.1"
+                           id="connector60pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,890.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.2"
+                           id="connector61pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,899.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.3"
+                           id="connector62pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,908.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.4"
+                           id="connector63pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,917.5081 a 2.25,2.25 0 0 1 0,4.49998 2.25,2.25 0 1 1 0,-4.49998 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.5"
+                           id="connector57pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,863.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                        <path
+                           gorn="0.3.0.0.0.0.0.0.0.28.0.0.6"
+                           id="connector58pin"
+                           stroke-width="1.79999995"
+                           d="m -109.09647,872.5081 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                           fill="none"
+                           style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                           stroke-opacity="1"
+                           stroke="#f7bd13" />
+                      </g>
+                    </g>
+                  </g>
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.29"
+                     id="connector15pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,374.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.30"
+                     id="connector16pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,383.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.31"
+                     id="connector17pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,392.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.32"
+                     id="connector14pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,365.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.33"
+                     id="connector19pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,410.62134 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.34"
+                     id="connector20pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,419.62134 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.35"
+                     id="connector18pin"
+                     stroke-width="1.79999995"
+                     d="m 311.46921,401.62134 a 2.250002,2.250002 0 0 1 0,4.5 2.250002,2.250002 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.36"
+                     id="connector26pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,374.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.37"
+                     id="connector25pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,383.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.38"
+                     id="connector24pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,392.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.39"
+                     id="connector27pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,365.62135 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.40"
+                     id="connector22pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,410.62134 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.41"
+                     id="connector21pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,419.62134 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.42"
+                     id="connector23pin"
+                     stroke-width="1.79999995"
+                     d="m 328.46921,401.62134 a 2.250002,2.250002 0 0 1 0,4.5 2.250002,2.250002 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.43"
+                     id="connector41pin"
+                     stroke-width="1.79999995"
+                     d="m 312.75427,429.36159 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.44"
+                     id="connector49pin"
+                     stroke-width="1.79999995"
+                     d="m 329.75427,429.36159 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.45"
+                     id="connector43pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,447.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.46"
+                     id="connector44pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,456.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.47"
+                     id="connector45pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,465.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.48"
+                     id="connector42pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,438.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.49"
+                     id="connector47pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,483.29139 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.50"
+                     id="connector48pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,492.29139 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.51"
+                     id="connector46pin"
+                     stroke-width="1.79999995"
+                     d="m 313.10287,474.29139 a 2.250002,2.250002 0 0 1 0,4.5 2.250002,2.250002 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.52"
+                     id="connector51pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,447.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.53"
+                     id="connector52pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,456.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.54"
+                     id="connector53pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,465.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.55"
+                     id="connector50pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,438.2914 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.56"
+                     id="connector55pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,483.29139 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.57"
+                     id="connector56pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,492.29139 a 2.25,2.25 0 0 1 0,4.5 2.25,2.25 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                  <path
+                     gorn="0.3.0.0.0.0.0.0.0.58"
+                     id="connector54pin"
+                     stroke-width="1.79999995"
+                     d="m 330.10287,474.29139 a 2.250002,2.250002 0 0 1 0,4.5 2.250002,2.250002 0 1 1 0,-4.5 z"
+                     fill="none"
+                     style="display:inline;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"
+                     stroke-opacity="1"
+                     stroke="#f7bd13" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

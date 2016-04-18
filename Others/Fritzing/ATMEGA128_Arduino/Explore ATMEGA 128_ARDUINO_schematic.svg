@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   gorn="0"
+   version="1.1"
+   id="svg34450"
+   width="50mm"
+   height="230mm"
+   viewBox="0 0 177.16535 814.96063">
+  <desc
+     id="desc3">
+    <referenceFile>ATMEGA128_schematic.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs34452" />
+  <metadata
+     id="metadata34455">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0,-1,1,0,425.08169,-944.56839)"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="text7383"
+     gorn="0.3.0.0.0.0.0"
+     font-size="10" />  <g
+     transform="translate(-278.8021,-51.5335)"
+     id="g35927"
+     gorn="0.3.0.0.1.0.0">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.18391895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       height="760.30981"
+       width="107.54424"
+       x="312.27298"
+       y="90.288788"
+       id="rect6715"
+       gorn="0.3.0.0.1.0.0.0" />
+    <path
+       d="m 442.50454,99.551007 7.08661,4.000003"
+       id="5v1pin"
+       gorn="0.3.0.0.1.0.0.1"
+       style="fill:none;stroke:none" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,126.12501 7.08661,4"
+       id="gnd1pin"
+       gorn="0.3.0.0.1.0.0.2" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,152.70001 7.08661,4"
+       id="iotxdpin"
+       gorn="0.3.0.0.1.0.0.3" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,179.27501 7.08661,4"
+       id="iorxdpin"
+       gorn="0.3.0.0.1.0.0.4" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,205.85001 7.08661,4"
+       id="io18pin"
+       gorn="0.3.0.0.1.0.0.5" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,232.42501 7.08661,4"
+       id="io23pin"
+       gorn="0.3.0.0.1.0.0.6" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,258.99901 7.08661,4"
+       id="io24pin"
+       gorn="0.3.0.0.1.0.0.7" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,285.57401 7.08661,4"
+       id="io25pin"
+       gorn="0.3.0.0.1.0.0.8" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,312.14901 7.08661,4"
+       id="iocs0pin"
+       gorn="0.3.0.0.1.0.0.9" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 442.50453,338.72401 7.08661,4"
+       id="iocs1pin"
+       gorn="0.3.0.0.1.0.0.10" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,99.551007 -7.08661,4.000003"
+       id="3v1pin"
+       gorn="0.3.0.0.1.0.0.11" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,128.12501 -7.08661,4"
+       id="iosdapin"
+       gorn="0.3.0.0.1.0.0.12" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,152.70001 -7.08661,4"
+       id="iosclpin"
+       gorn="0.3.0.0.1.0.0.13" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,179.27501 -7.08661,4"
+       id="io4pin"
+       gorn="0.3.0.0.1.0.0.14" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,205.85001 -7.08661,4"
+       id="io17pin"
+       gorn="0.3.0.0.1.0.0.15" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,232.42501 -7.08661,4"
+       id="io21pin"
+       gorn="0.3.0.0.1.0.0.16" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,258.99901 -7.08661,4"
+       id="io22pin"
+       gorn="0.3.0.0.1.0.0.17" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,285.57401 -7.08661,4"
+       id="iomosipin"
+       gorn="0.3.0.0.1.0.0.18" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,312.14901 -7.08661,4"
+       id="iomisopin"
+       gorn="0.3.0.0.1.0.0.19" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.14233,338.72401 -7.08661,4"
+       id="iosclkpin"
+       gorn="0.3.0.0.1.0.0.20" />
+    <g
+       transform="translate(260.02422,-578.76399)"
+       id="g43">
+      <g
+         id="g45">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7277"
+           gorn="0.3.0.0.1.0.0.21.0.0"
+           font-size="5"><text
+             style="font-size:10px"
+             x="60.236221"
+             y="683.85822"
+             id="tspan7279"
+             gorn="0.3.0.0.1.0.0.21.0.0.0">RX</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-578.76399)"
+       id="g49">
+      <g
+         id="g51">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7281"
+           gorn="0.3.0.0.1.0.0.22.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="710.43304"
+             id="tspan7283"
+             gorn="0.3.0.0.1.0.0.22.0.0.0">TX</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-578.76399)"
+       id="g55">
+      <g
+         id="g57">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7285"
+           gorn="0.3.0.0.1.0.0.23.0.0"
+           font-size="10"><text
+             x="60.184994"
+             y="738.11755"
+             id="tspan7287"
+             gorn="0.3.0.0.1.0.0.23.0.0.0">0</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-578.76399)"
+       id="g61">
+      <g
+         id="g63">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7289"
+           gorn="0.3.0.0.1.0.0.24.0.0"
+           font-size="10"><text
+             x="60.349434"
+             y="764.09906"
+             id="tspan7291"
+             gorn="0.3.0.0.1.0.0.24.0.0.0">1</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-605.33899)"
+       id="g67">
+      <g
+         id="g69">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7297"
+           gorn="0.3.0.0.1.0.0.25.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="816.73224"
+             id="tspan7299"
+             gorn="0.3.0.0.1.0.0.25.0.0.0">2</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-605.33899)"
+       id="g73">
+      <g
+         id="g75">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7301"
+           gorn="0.3.0.0.1.0.0.26.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="843.30707"
+             id="tspan7303"
+             gorn="0.3.0.0.1.0.0.26.0.0.0">3</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-605.33899)"
+       id="g79">
+      <g
+         id="g81">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7305"
+           gorn="0.3.0.0.1.0.0.27.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="869.88184"
+             id="tspan7307"
+             gorn="0.3.0.0.1.0.0.27.0.0.0">4</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-631.91399)"
+       id="g85">
+      <g
+         id="g87">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313"
+           gorn="0.3.0.0.1.0.0.28.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315"
+             gorn="0.3.0.0.1.0.0.28.0.0.0">5</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-631.91399)"
+       id="g91">
+      <g
+         id="g93">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317"
+           gorn="0.3.0.0.1.0.0.29.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319"
+             gorn="0.3.0.0.1.0.0.29.0.0.0">6</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.02422,-631.91399)"
+       id="g97">
+      <g
+         id="g99">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321"
+           gorn="0.3.0.0.1.0.0.30.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323"
+             gorn="0.3.0.0.1.0.0.30.0.0.0">7</text>
+</g>      </g>
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,0,0)"
+       id="g103">
+      <g
+         id="g105">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="-616.49445"
+           y="370.20941"
+           id="tspan7385"
+           gorn="0.3.0.0.1.0.0.31.0.0"
+           font-size="20">Explore ATMEGA-128</text>
+      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,101.55101 -26.57481,0"
+       id="connector1pin"
+       gorn="0.3.0.0.1.0.0.32" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,128.12501 -26.57481,0"
+       id="connector2pin"
+       gorn="0.3.0.0.1.0.0.33" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,154.70001 -26.57481,0"
+       id="connector3pin"
+       gorn="0.3.0.0.1.0.0.34" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,181.27501 -26.57481,0"
+       id="connector4pin"
+       gorn="0.3.0.0.1.0.0.35" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,207.85001 -26.57481,0"
+       id="connector5pin"
+       gorn="0.3.0.0.1.0.0.36" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,234.42501 -26.57481,0"
+       id="connector6pin"
+       gorn="0.3.0.0.1.0.0.37" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,260.99901 -26.57481,0"
+       id="connector7pin"
+       gorn="0.3.0.0.1.0.0.38" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,287.57401 -26.57481,0"
+       id="connector8pin"
+       gorn="0.3.0.0.1.0.0.39" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,314.14901 -26.57481,0"
+       id="connector9pin"
+       gorn="0.3.0.0.1.0.0.40" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.17383,340.72401 -26.57481,0"
+       id="connector10pin"
+       gorn="0.3.0.0.1.0.0.41" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47304,101.55101 26.57481,0"
+       id="connector40pin"
+       gorn="0.3.0.0.1.0.0.42" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,128.12501 26.57481,0"
+       id="connector39pin"
+       gorn="0.3.0.0.1.0.0.43" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,154.70001 26.57481,0"
+       id="connector38pin"
+       gorn="0.3.0.0.1.0.0.44" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,181.27501 26.57481,0"
+       id="connector37pin"
+       gorn="0.3.0.0.1.0.0.45" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,207.85001 26.57481,0"
+       id="connector36pin"
+       gorn="0.3.0.0.1.0.0.46" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,234.42501 26.57481,0"
+       id="connector35pin"
+       gorn="0.3.0.0.1.0.0.47" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,260.99901 26.57481,0"
+       id="connector34pin"
+       gorn="0.3.0.0.1.0.0.48" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,287.57401 26.57481,0"
+       id="connector33pin"
+       gorn="0.3.0.0.1.0.0.49" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,314.14901 26.57481,0"
+       id="connector32pin"
+       gorn="0.3.0.0.1.0.0.50" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 419.47303,340.72401 26.57481,0"
+       id="connector31pin"
+       gorn="0.3.0.0.1.0.0.51" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.39257,364.0815 -7.08661,4"
+       id="iomosipin-3"
+       gorn="0.3.0.0.1.0.0.52" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.39257,390.6565 -7.08661,4"
+       id="iomisopin-6"
+       gorn="0.3.0.0.1.0.0.53" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.39257,417.2315 -7.08661,4"
+       id="iosclkpin-1"
+       gorn="0.3.0.0.1.0.0.54" />
+    <g
+       transform="translate(257.06017,-553.76365)"
+       id="g131">
+      <g
+         id="g133">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2"
+           gorn="0.3.0.0.1.0.0.55.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8"
+             gorn="0.3.0.0.1.0.0.55.0.0.0">NC</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(257.06017,-553.76365)"
+       id="g137">
+      <g
+         id="g139">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7"
+           gorn="0.3.0.0.1.0.0.56.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2"
+             gorn="0.3.0.0.1.0.0.56.0.0.0">RESET</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(257.06017,-553.76365)"
+       id="g143">
+      <g
+         id="g145">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2"
+           gorn="0.3.0.0.1.0.0.57.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4"
+             gorn="0.3.0.0.1.0.0.57.0.0.0">8</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.42407,366.0815 -26.57481,0"
+       id="connector11pin"
+       gorn="0.3.0.0.1.0.0.58" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.42407,392.6565 -26.57481,0"
+       id="connector12pin"
+       gorn="0.3.0.0.1.0.0.59" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.42407,419.2315 -26.57481,0"
+       id="connector13pin"
+       gorn="0.3.0.0.1.0.0.60" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,147.9836 -7.08661,4"
+       id="iomosipin-3-8"
+       gorn="0.3.0.0.1.0.0.61" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,198.27535 -7.08661,4"
+       id="iomisopin-6-7"
+       gorn="0.3.0.0.1.0.0.62" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 448.543,364.65781 -26.57481,0"
+       id="connector30pin"
+       gorn="0.3.0.0.1.0.0.63" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 448.543,391.23281 -26.57481,0"
+       id="connector29pin"
+       gorn="0.3.0.0.1.0.0.64" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 448.543,417.80781 -26.57481,0"
+       id="connector28pin"
+       gorn="0.3.0.0.1.0.0.65" />
+    <g
+       transform="matrix(0,1,-1,0,1319.4412,16.583781)"
+       id="g157">
+      <g
+         id="g159">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-6-7"
+           gorn="0.3.0.0.1.0.0.66.0.0"
+           font-size="10"><g
+             transform="scale(-1,-1)"
+             id="g162"><g
+               id="g164"><text
+                 x="-71.540741"
+                 y="-980.14349"
+                 id="tspan7323-4-3-1"
+                 gorn="0.3.0.0.1.0.0.66.0.0.0.0.0">NC</text>
+</g></g></g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 365.87502,89.697547 0,-21.25395"
+       id="connector60pin"
+       gorn="0.3.0.0.1.0.0.67" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 352.89778,89.303417 0,-21.45102"
+       id="connector59pin"
+       gorn="0.3.0.0.1.0.0.68" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 341.30002,89.303407 0,-21.55826"
+       id="connector58pin"
+       gorn="0.3.0.0.1.0.0.69" />
+    <g
+       transform="matrix(0,-1,1,0,-651.1092,144.34337)"
+       id="g170">
+      <g
+         id="g172">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-6-7-2"
+           gorn="0.3.0.0.1.0.0.70.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3-1-4"
+             gorn="0.3.0.0.1.0.0.70.0.0.0">G</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 328.06938,89.382147 0,-21.55826"
+       id="connector57pin"
+       gorn="0.3.0.0.1.0.0.71" />
+    <g
+       transform="matrix(0,-1,1,0,-575.28647,150.00294)"
+       id="g177">
+      <g
+         id="g179">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-6-7-7"
+           gorn="0.3.0.0.1.0.0.72.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3-1-8"
+             gorn="0.3.0.0.1.0.0.72.0.0.0">DTR</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 403.0647,90.088347 0,-21.45102"
+       id="connector63pin"
+       gorn="0.3.0.0.1.0.0.73" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 391.46694,90.088337 0,-21.55826"
+       id="connector62pin"
+       gorn="0.3.0.0.1.0.0.74" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 378.23631,90.167077 0,-21.55826"
+       id="connector61pin"
+       gorn="0.3.0.0.1.0.0.75" />
+    <g
+       transform="matrix(0,-1,1,0,-625.46711,143.03465)"
+       id="g186">
+      <g
+         id="g188">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-6-7-2-49"
+           gorn="0.3.0.0.1.0.0.76.0.0"
+           font-size="10"><text
+             x="56.294842"
+             y="976.57526"
+             id="tspan7323-4-3-1-4-5"
+             gorn="0.3.0.0.1.0.0.76.0.0.0">5V</text>
+<g
+             transform="matrix(-1,0,0,-1,127.98806,1981.5772)"
+             id="g192"><g
+               id="g194"><g
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 id="text7321-2-6-7-70"
+                 gorn="0.3.0.0.1.0.0.76.0.0.1.0.0"
+                 font-size="10"><g
+                   transform="scale(-1,-1)"
+                   id="g197"><g
+                     id="g199"><text
+                       x="-71.540741"
+                       y="-980.14349"
+                       id="tspan7323-4-3-1-5"
+                       gorn="0.3.0.0.1.0.0.76.0.0.1.0.0.0.0.0">TX</text>
+</g></g></g></g></g><text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             x="56.649605"
+             y="989.39893"
+             id="tspan7323-4-3-1-4-5-3"
+             gorn="0.3.0.0.1.0.0.76.0.0.2"
+             font-size="10">RX</text>
+</g>      </g>
+    </g>
+    <g
+       transform="matrix(0,1,-1,0,1369.8821,15.966176)"
+       id="g203">
+      <g
+         id="g205">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-6-7-74"
+           gorn="0.3.0.0.1.0.0.77.0.0"
+           font-size="10"><g
+             transform="scale(-1,-1)"
+             id="g208"><g
+               id="g210"><text
+                 x="-71.540741"
+                 y="-980.14349"
+                 id="tspan7323-4-3-1-83"
+                 gorn="0.3.0.0.1.0.0.77.0.0.0.0.0">NC</text>
+</g></g></g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.18869,443.15058 -7.08661,4"
+       id="io22pin-6"
+       gorn="0.3.0.0.1.0.0.78" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.18869,469.72558 -7.08661,4"
+       id="iomosipin-37"
+       gorn="0.3.0.0.1.0.0.79" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.18869,496.30058 -7.08661,4"
+       id="iomisopin-9"
+       gorn="0.3.0.0.1.0.0.80" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.18869,522.87558 -7.08661,4"
+       id="iosclkpin-7"
+       gorn="0.3.0.0.1.0.0.81" />
+    <g
+       transform="translate(260.07058,-421.18742)"
+       id="g217">
+      <g
+         id="g219">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7305-4"
+           gorn="0.3.0.0.1.0.0.82.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="869.88184"
+             id="tspan7307-6"
+             gorn="0.3.0.0.1.0.0.82.0.0.0">9</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.07058,-447.76242)"
+       id="g223">
+      <g
+         id="g225">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-24"
+           gorn="0.3.0.0.1.0.0.83.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-7"
+             gorn="0.3.0.0.1.0.0.83.0.0.0">10</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.07058,-447.76242)"
+       id="g229">
+      <g
+         id="g231">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-6"
+           gorn="0.3.0.0.1.0.0.84.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-8"
+             gorn="0.3.0.0.1.0.0.84.0.0.0">11</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(260.07058,-447.76242)"
+       id="g235">
+      <g
+         id="g237">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-8"
+           gorn="0.3.0.0.1.0.0.85.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-9"
+             gorn="0.3.0.0.1.0.0.85.0.0.0">12</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.22019,445.15058 -26.57481,0"
+       id="connector14pin"
+       gorn="0.3.0.0.1.0.0.86" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.22019,471.72558 -26.57481,0"
+       id="connector15pin"
+       gorn="0.3.0.0.1.0.0.87" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.22019,498.30058 -26.57481,0"
+       id="connector16pin"
+       gorn="0.3.0.0.1.0.0.88" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.22019,524.87558 -26.57481,0"
+       id="connector17pin"
+       gorn="0.3.0.0.1.0.0.89" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.43893,548.23307 -7.08661,4"
+       id="iomosipin-3-7"
+       gorn="0.3.0.0.1.0.0.90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.43893,574.80807 -7.08661,4"
+       id="iomisopin-6-4"
+       gorn="0.3.0.0.1.0.0.91" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 290.43893,601.38307 -7.08661,4"
+       id="iosclkpin-1-5"
+       gorn="0.3.0.0.1.0.0.92" />
+    <g
+       transform="translate(257.10653,-369.61208)"
+       id="g248">
+      <g
+         id="g250">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2-15"
+           gorn="0.3.0.0.1.0.0.93.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8-7"
+             gorn="0.3.0.0.1.0.0.93.0.0.0">13</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(257.10653,-369.61208)"
+       id="g254">
+      <g
+         id="g256">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7-1"
+           gorn="0.3.0.0.1.0.0.94.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2-0"
+             gorn="0.3.0.0.1.0.0.94.0.0.0">14</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(257.10653,-369.61208)"
+       id="g260">
+      <g
+         id="g262">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-03"
+           gorn="0.3.0.0.1.0.0.95.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3"
+             gorn="0.3.0.0.1.0.0.95.0.0.0">15</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.47043,550.23307 -26.57481,0"
+       id="connector18pin"
+       gorn="0.3.0.0.1.0.0.96" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.47043,576.80807 -26.57481,0"
+       id="connector19pin"
+       gorn="0.3.0.0.1.0.0.97" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.47043,603.38307 -26.57481,0"
+       id="connector20pin"
+       gorn="0.3.0.0.1.0.0.98" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,349.15065 -7.08661,4"
+       id="iomosipin-37-5"
+       gorn="0.3.0.0.1.0.0.99" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,399.4424 -7.08661,4"
+       id="iomisopin-9-5"
+       gorn="0.3.0.0.1.0.0.100" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,449.73421 -7.08661,4"
+       id="iosclkpin-7-2"
+       gorn="0.3.0.0.1.0.0.101" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.07233,443.94491 -26.57481,0"
+       id="connector27pin"
+       gorn="0.3.0.0.1.0.0.102" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.07233,470.51991 -26.57481,0"
+       id="connector26pin"
+       gorn="0.3.0.0.1.0.0.103" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.07233,497.09491 -26.57481,0"
+       id="connector25pin"
+       gorn="0.3.0.0.1.0.0.104" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.07233,523.66991 -26.57481,0"
+       id="connector24pin"
+       gorn="0.3.0.0.1.0.0.105" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,500.02592 -7.08661,4"
+       id="iomosipin-3-7-8"
+       gorn="0.3.0.0.1.0.0.106" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,550.3177 -7.08661,4"
+       id="iomisopin-6-4-0"
+       gorn="0.3.0.0.1.0.0.107" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3.54330707;marker:none;enable-background:accumulate"
+       d="m 414.70364,600.60945 -7.08661,4"
+       id="iosclkpin-1-5-3"
+       gorn="0.3.0.0.1.0.0.108" />
+    <g
+       transform="translate(257.96155,-578.76404)"
+       id="g279">
+      <g
+         id="g281">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7329"
+           gorn="0.3.0.0.1.0.0.109.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="683.85822"
+             id="tspan7331"
+             gorn="0.3.0.0.1.0.0.109.0.0.0">VCC</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(259.65588,-605.33904)"
+       id="g285">
+      <g
+         id="g287">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7337"
+           gorn="0.3.0.0.1.0.0.110.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="737.00781"
+             id="tspan7339"
+             gorn="0.3.0.0.1.0.0.110.0.0.0">GND</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(256.00842,-605.33904)"
+       id="g291">
+      <g
+         id="g293">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7341"
+           gorn="0.3.0.0.1.0.0.111.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="763.58264"
+             id="tspan7343"
+             gorn="0.3.0.0.1.0.0.111.0.0.0">31</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.00061,-605.33904)"
+       id="g297">
+      <g
+         id="g299">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7345"
+           gorn="0.3.0.0.1.0.0.112.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="790.15747"
+             id="tspan7347"
+             gorn="0.3.0.0.1.0.0.112.0.0.0">30</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(257.00061,-605.33904)"
+       id="g303">
+      <g
+         id="g305">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7349"
+           gorn="0.3.0.0.1.0.0.113.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="816.73224"
+             id="tspan7351"
+             gorn="0.3.0.0.1.0.0.113.0.0.0">29</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(259.65588,-631.91404)"
+       id="g309">
+      <g
+         id="g311">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7357"
+           gorn="0.3.0.0.1.0.0.114.0.0"
+           font-size="10"><g
+             id="g4456"
+             gorn="0.3.0.0.1.0.0.114.0.0.0"><text
+               style="text-align:end;text-anchor:end"
+               x="152.36221"
+               id="tspan7359"
+               y="869.88184"
+               gorn="0.3.0.0.1.0.0.114.0.0.0.0">28</text>
+</g></g>      </g>
+    </g>
+    <g
+       transform="translate(258.64514,-631.91404)"
+       id="g316">
+      <g
+         id="g318">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7361"
+           gorn="0.3.0.0.1.0.0.115.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="896.45667"
+             id="tspan7363"
+             gorn="0.3.0.0.1.0.0.115.0.0.0">27</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.64514,-658.48904)"
+       id="g322">
+      <g
+         id="g324">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7369"
+           gorn="0.3.0.0.1.0.0.116.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="949.60626"
+             id="tspan7371"
+             gorn="0.3.0.0.1.0.0.116.0.0.0">26</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.64514,-658.48904)"
+       id="g328">
+      <g
+         id="g330">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7373"
+           gorn="0.3.0.0.1.0.0.117.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="152.36221"
+             y="976.18109"
+             id="tspan7375"
+             gorn="0.3.0.0.1.0.0.117.0.0.0">25</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(256.87349,-658.48904)"
+       id="g334">
+      <g
+         id="g336">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7377"
+           gorn="0.3.0.0.1.0.0.118.0.0"
+           font-size="10"><text
+             style="text-align:end;text-anchor:end"
+             x="154.13387"
+             y="1002.7559"
+             id="tspan7379"
+             gorn="0.3.0.0.1.0.0.118.0.0.0">24</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.84242,-555.69248)"
+       id="g340">
+      <g
+         id="g342">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2-1"
+           gorn="0.3.0.0.1.0.0.119.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8-6"
+             gorn="0.3.0.0.1.0.0.119.0.0.0">NC</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.79848,-555.1874)"
+       id="g346">
+      <g
+         id="g348">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7-3"
+           gorn="0.3.0.0.1.0.0.120.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2-9"
+             gorn="0.3.0.0.1.0.0.120.0.0.0">INTR</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.64223,-555.1874)"
+       id="g352">
+      <g
+         id="g354">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-0"
+           gorn="0.3.0.0.1.0.0.121.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-4"
+             gorn="0.3.0.0.1.0.0.121.0.0.0">23</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.72524,-423.29398)"
+       id="g358">
+      <g
+         id="g360">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7305-4-1"
+           gorn="0.3.0.0.1.0.0.122.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="869.88184"
+             id="tspan7307-6-9"
+             gorn="0.3.0.0.1.0.0.122.0.0.0">22</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.4811,-449.86898)"
+       id="g364">
+      <g
+         id="g366">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-24-6"
+           gorn="0.3.0.0.1.0.0.123.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-7-1"
+             gorn="0.3.0.0.1.0.0.123.0.0.0">21</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(329.0182,-449.86898)"
+       id="g370">
+      <g
+         id="g372">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-6-6"
+           gorn="0.3.0.0.1.0.0.124.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-8-5"
+             gorn="0.3.0.0.1.0.0.124.0.0.0">20</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.57875,-449.86898)"
+       id="g376">
+      <g
+         id="g378">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-8-2"
+           gorn="0.3.0.0.1.0.0.125.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-9-0"
+             gorn="0.3.0.0.1.0.0.125.0.0.0">19</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.60805,-371.71864)"
+       id="g382">
+      <g
+         id="g384">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2-15-1"
+           gorn="0.3.0.0.1.0.0.126.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8-7-1"
+             gorn="0.3.0.0.1.0.0.126.0.0.0">18</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.03676,-371.71864)"
+       id="g388">
+      <g
+         id="g390">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7-1-9"
+           gorn="0.3.0.0.1.0.0.127.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2-0-0"
+             gorn="0.3.0.0.1.0.0.127.0.0.0">17</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.72524,-371.71864)"
+       id="g394">
+      <g
+         id="g396">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-03-2"
+           gorn="0.3.0.0.1.0.0.128.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3-3"
+             gorn="0.3.0.0.1.0.0.128.0.0.0">16</text>
+</g>      </g>
+    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.32257,549.0274 -26.57481,0"
+       id="connector23pin"
+       gorn="0.3.0.0.1.0.0.129" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.32257,575.6024 -26.57481,0"
+       id="connector22pin"
+       gorn="0.3.0.0.1.0.0.130" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.32257,602.1774 -26.57481,0"
+       id="connector21pin"
+       gorn="0.3.0.0.1.0.0.131" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 447.37818,630.86768 -26.57481,0"
+       id="connector49pin"
+       gorn="0.3.0.0.1.0.0.132" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 445.90751,657.00478 -26.57481,0"
+       id="connector50pin"
+       gorn="0.3.0.0.1.0.0.133" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 445.90751,683.57978 -26.57481,0"
+       id="connector51pin"
+       gorn="0.3.0.0.1.0.0.134" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 445.90751,710.15478 -26.57481,0"
+       id="connector52pin"
+       gorn="0.3.0.0.1.0.0.135" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 445.90751,736.72978 -26.57481,0"
+       id="connector53pin"
+       gorn="0.3.0.0.1.0.0.136" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 446.15775,762.08727 -26.57481,0"
+       id="connector54pin"
+       gorn="0.3.0.0.1.0.0.137" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 446.15775,788.66227 -26.57481,0"
+       id="connector55pin"
+       gorn="0.3.0.0.1.0.0.138" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 446.15775,815.23727 -26.57481,0"
+       id="connector56pin"
+       gorn="0.3.0.0.1.0.0.139" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 313.02789,630.86769 -26.57481,0"
+       id="connector41pin"
+       gorn="0.3.0.0.1.0.0.140" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.55722,657.00479 -26.57481,0"
+       id="connector42pin"
+       gorn="0.3.0.0.1.0.0.141" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.55722,683.57979 -26.57481,0"
+       id="connector43pin"
+       gorn="0.3.0.0.1.0.0.142" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.55722,710.15479 -26.57481,0"
+       id="connector44pin"
+       gorn="0.3.0.0.1.0.0.143" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.55722,736.72979 -26.57481,0"
+       id="connector45pin"
+       gorn="0.3.0.0.1.0.0.144" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.80746,762.08728 -26.57481,0"
+       id="connector46pin"
+       gorn="0.3.0.0.1.0.0.145" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.80746,788.66228 -26.57481,0"
+       id="connector47pin"
+       gorn="0.3.0.0.1.0.0.146" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 311.80746,815.23728 -26.57481,0"
+       id="connector48pin"
+       gorn="0.3.0.0.1.0.0.147" />
+    <g
+       transform="translate(255.2477,-341.4959)"
+       id="g419">
+      <g
+         id="g421">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-8"
+           gorn="0.3.0.0.1.0.0.148.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-2"
+             gorn="0.3.0.0.1.0.0.148.0.0.0">32</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.25811,-208.91967)"
+       id="g425">
+      <g
+         id="g427">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7305-4-6"
+           gorn="0.3.0.0.1.0.0.149.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="869.88184"
+             id="tspan7307-6-8"
+             gorn="0.3.0.0.1.0.0.149.0.0.0">33</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.25811,-235.49467)"
+       id="g431">
+      <g
+         id="g433">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-24-9"
+           gorn="0.3.0.0.1.0.0.150.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-7-3"
+             gorn="0.3.0.0.1.0.0.150.0.0.0">34</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.25811,-235.49467)"
+       id="g437">
+      <g
+         id="g439">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-6-9"
+           gorn="0.3.0.0.1.0.0.151.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-8-2"
+             gorn="0.3.0.0.1.0.0.151.0.0.0">35</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(258.25811,-235.49467)"
+       id="g443">
+      <g
+         id="g445">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-8-6"
+           gorn="0.3.0.0.1.0.0.152.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-9-1"
+             gorn="0.3.0.0.1.0.0.152.0.0.0">36</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(255.29406,-157.34433)"
+       id="g449">
+      <g
+         id="g451">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2-15-14"
+           gorn="0.3.0.0.1.0.0.153.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8-7-18"
+             gorn="0.3.0.0.1.0.0.153.0.0.0">37</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(255.29406,-157.34433)"
+       id="g455">
+      <g
+         id="g457">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7-1-7"
+           gorn="0.3.0.0.1.0.0.154.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2-0-02"
+             gorn="0.3.0.0.1.0.0.154.0.0.0">38</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(255.29406,-157.34433)"
+       id="g461">
+      <g
+         id="g463">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-03-5"
+           gorn="0.3.0.0.1.0.0.155.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3-7"
+             gorn="0.3.0.0.1.0.0.155.0.0.0">39</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(327.97869,-341.4959)"
+       id="g467">
+      <g
+         id="g469">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-8-9"
+           gorn="0.3.0.0.1.0.0.156.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-2-4"
+             gorn="0.3.0.0.1.0.0.156.0.0.0">A0</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(330.9891,-208.91967)"
+       id="g473">
+      <g
+         id="g475">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7305-4-6-6"
+           gorn="0.3.0.0.1.0.0.157.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="869.88184"
+             id="tspan7307-6-8-9"
+             gorn="0.3.0.0.1.0.0.157.0.0.0">A1</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(330.9891,-235.49467)"
+       id="g479">
+      <g
+         id="g481">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-24-9-3"
+           gorn="0.3.0.0.1.0.0.158.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-7-3-3"
+             gorn="0.3.0.0.1.0.0.158.0.0.0">A2</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(330.9891,-235.49467)"
+       id="g485">
+      <g
+         id="g487">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-6-9-3"
+           gorn="0.3.0.0.1.0.0.159.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-8-2-0"
+             gorn="0.3.0.0.1.0.0.159.0.0.0">A3</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(330.9891,-235.49467)"
+       id="g491">
+      <g
+         id="g493">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-8-6-3"
+           gorn="0.3.0.0.1.0.0.160.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-9-1-2"
+             gorn="0.3.0.0.1.0.0.160.0.0.0">A4</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.02505,-157.34433)"
+       id="g497">
+      <g
+         id="g499">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7313-2-15-14-4"
+           gorn="0.3.0.0.1.0.0.161.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="923.03143"
+             id="tspan7315-8-7-18-5"
+             gorn="0.3.0.0.1.0.0.161.0.0.0">A5</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.02505,-157.34433)"
+       id="g503">
+      <g
+         id="g505">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7317-7-1-7-6"
+           gorn="0.3.0.0.1.0.0.162.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="949.60626"
+             id="tspan7319-2-0-02-3"
+             gorn="0.3.0.0.1.0.0.162.0.0.0">A6</text>
+</g>      </g>
+    </g>
+    <g
+       transform="translate(328.02505,-157.34433)"
+       id="g509">
+      <g
+         id="g511">
+        <g
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="text7321-2-03-5-6"
+           gorn="0.3.0.0.1.0.0.163.0.0"
+           font-size="10"><text
+             x="60.236221"
+             y="976.18109"
+             id="tspan7323-4-3-7-7"
+             gorn="0.3.0.0.1.0.0.163.0.0.0">A7</text>
+</g>      </g>
+    </g>
+  </g>
+</svg>
